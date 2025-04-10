@@ -1,1 +1,1 @@
-## Add text here
+## Figuring out service bus queue with and without sessions
